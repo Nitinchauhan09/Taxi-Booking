@@ -1,5 +1,5 @@
 # Taxi-Booking
-TAXI BOOKING  ( Spring Boot| Spring Data JPA|Spring Security|MySql|HTML|CSS|Thymeleaf )	Aug 2024
+TAXI BOOKING  ( Spring Boot | Spring Data JPA |Spring Security | MySql | HTML | CSS | Thymeleaf )
 Developed a taxi booking application using Spring Boot, enabling users to book taxis seamlessly with real-time availability.
 Implemented secure authentication and authorization for admin users with Spring Security, ensuring restricted access to admin functionalities.
 Built RESTful APIs to handle user queries and booking requests, following REST architecture principles for efficient data handling.
